@@ -11,7 +11,7 @@ public class CustomNumber {
 
     public void getMultiplicationTable(){
         for (int i = 12; i >=1 ; i--) {
-            System.out.println(" The number " + number + " * " + i + " = " + (number * i));
+            System.out.println("The number " + number + " * " + i + " = " + (number * i));
         }
     }
 }
